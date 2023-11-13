@@ -1,0 +1,14 @@
+label{
+    color: red;
+}
+input{
+    background-color: lightgreen;
+}
+#btn{
+    position: absolute;
+    top: 70%;
+    left: 47%;
+    height: 40px;
+    width: 90px;
+    background-color: red;
+}
